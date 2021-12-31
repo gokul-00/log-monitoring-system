@@ -1,4 +1,4 @@
-#### Deploy a log monitoring system
+# Deploy a log monitoring system
 
 ## Link to Your Github or Gitlab Repo
 
